@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ModMetaData>
+	<name>ED-CheatReactor</name>
+	<targetVersion>0.14.1234</targetVersion>
+	<author>Jaxxa</author>
+	<url>https://ludeon.com/forums/index.php?topic=18995.0</url>
+	<description>
+Adds a Reactor that produces a lot of Power, is Built Instantly and for Free. 
+It goes without saying that this is in no way balanced and should only be used for testing or cheating.
+	</description>
+</ModMetaData>
