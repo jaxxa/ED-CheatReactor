@@ -8,3 +8,6 @@ Adds a free reactor that produces a lot of power. For testing things quickly or 
 
 02.00.00
 *Update to Alpha 15
+
+03.00.00
+*Update to Alpha 16
