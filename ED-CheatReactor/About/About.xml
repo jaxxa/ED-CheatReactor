@@ -1,17 +1,15 @@
 <?xml version="1.0" encoding="utf-8"?>
 <ModMetaData>
 	<name>ED-CheatReactor</name>
-	<targetVersion>0.16.1393</targetVersion>
+	<targetVersion>0.17.0</targetVersion>
 	<author>Jaxxa</author>
 	<url>https://ludeon.com/forums/index.php?topic=18995.0</url>
-	<description>Version: 03.00.01
+	<description>Version: 0.17.0.0
 Discussion, Non Steam Downloads and GitHub Repositories of this mod is available at: https://ludeon.com/forums/index.php?topic=18995
-Please Use that Thread for Discussion / Feedback that would like me to reply to. 
-Ideally Bugs should be logged on GitHub although in the discussion thread is also fine.
 
 Adds a Reactor that produces a lot of Power, is Built Instantly and for Free. 
 It goes without saying that this is in no way balanced and should only be used for testing or cheating.
 
-I know that there is a debug power option in the menu, but I find this more helpful for testing some things.
+I know that there is a debug power option in the menu, but I find this more helpful for testing.
 	</description>
 </ModMetaData>
