@@ -15,5 +15,5 @@ Adds a free reactor that produces a lot of power. For testing things quickly or 
 03.00.01
 *Converting WorkToMake to WorkToBuild
 
-0.17.0.0
+0.17.0
 *Update to Alpha 17
