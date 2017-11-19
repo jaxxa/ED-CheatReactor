@@ -17,3 +17,6 @@ Adds a free reactor that produces a lot of power. For testing things quickly or 
 
 0.17.0
 *Update to Alpha 17
+
+0.18.0.0
+*Update to Beta 18

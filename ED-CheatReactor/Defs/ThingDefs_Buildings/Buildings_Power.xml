@@ -1,5 +1,5 @@
 ﻿<?xml version="1.0" encoding="utf-8" ?>
-<Buildings>
+<Defs>
 
   <ThingDef ParentName="BuildingBase">
     <defName>CheatReactor</defName>
@@ -42,9 +42,8 @@
     <staticSunShadowHeight>1.0</staticSunShadowHeight>
     <building>
       <soundAmbient>GeothermalPlant_Ambience</soundAmbient>
-      <ignoreNeedsPower>true</ignoreNeedsPower>
     </building>
     <constructEffect>ConstructMetal</constructEffect>
   </ThingDef>
 
-</Buildings>
+</Defs>
