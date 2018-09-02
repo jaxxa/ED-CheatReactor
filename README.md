@@ -4,10 +4,10 @@ Adds a free reactor that produces a lot of power. For testing things quickly or 
 ## Change Log
 
 
-1.0.0.1
+0.19.0.1
  * Updating Build Number
  
-1.0.0.0
+0.19.0.0
  * Update to Rimworld 1.0
   
 0.18.0.0
