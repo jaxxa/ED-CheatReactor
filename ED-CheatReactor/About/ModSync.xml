@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ModSyncNinjaData>
+  <ID>6633cdf4-23fd-4701-98a0-b031352db7aa</ID>
+  <ModName>ED-CheatReactor</ModName>
+  <Version>1.0.0.0</Version>
+  <SaveBreaking>False</SaveBreaking>
+  <Host name="Github">
+    <Owner>jaxxa</Owner>
+    <Project>ED-CheatReactor</Project>
+    <AboutDir>ED-CheatReactor/About</AboutDir>
+    <DownloadFrom>ModSyncMainPage</DownloadFrom>
+    <Branch>master</Branch>
+  </Host>
+</ModSyncNinjaData>
