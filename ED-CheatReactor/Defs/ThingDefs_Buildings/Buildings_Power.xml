@@ -25,7 +25,7 @@
       <Beauty>0</Beauty>
     </statBases>
     <tickerType>Normal</tickerType>
-    <description>Produces electricity from geothermal steam geysers. Must be placed on a geyser.</description>
+    <description>Produces a large ammount of electricity.</description>
     <size>(2,2)</size>
     <costList>
     </costList>
