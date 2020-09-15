@@ -3,6 +3,9 @@ Adds a free reactor that produces a lot of power. For testing things quickly or 
 
 ## Change Log
 
+2.1.0.0
+ * Updating to Rimworld 1.2
+
 2.0.0.0
  * Update to support 1.0 and 1.1
 
